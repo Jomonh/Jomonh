@@ -4,34 +4,35 @@
 <img src="https://github.com/Jomonh/Jomonh/blob/main/Assets/Programmer.gif" height="155" width="200" align="middle"/>  <br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
 
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Aspiring Software Development Engineer at Zoho</h3>
 
 
--  I’m currently learning   **MERN Stack** 
+-  Currently Learning   Java & DSA 
 
 
--  All of my **projects** are available <a a href="https://jomon.vercel.app/" target="_blank">**here**</a>
+-  Take a look at my <a a href="https://jomon.vercel.app/" target="_blank">**portfolio.**</a>
 
 
--  Ask me about    : **`GitHub`**
+-  Ask me about    : **```GitHub```**
 
 
--  Here is my <a href="mailto:jomon.workmail@gmail.com" target="_blank"> **Email**</a>
+-  Say hello at my <a href="mailto:jomon.workmail@gmail.com" target="_blank">**email!**</a>
 
 
-- Check my <a href="https://drive.google.com/file/d/1XdP775UPCrulyrOkFoghJPRolNHWBsZU/view?usp=drivesdk" target="_blank">**Resume**</a>
+- Check out my <a href="https://drive.google.com/file/d/1XdP775UPCrulyrOkFoghJPRolNHWBsZU/view?usp=drivesdk" target="_blank">**resume**</a> for more details.
 
 
 - Connect me over <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2320232a.svg?style=normal&logo=linkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/jomonh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/Jomonh/)
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jomonh" target="_blank" alt="Jomon" /> </p>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2320232a.svg?style=normal&logo=geeksforgeeks&logoColor=%2300C853)](https://auth.geeksforgeeks.org/user/jomonh/)
+[![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=normal&logo=discord&logoColor=%237289DA)](https://discord.gg/gjdGS6BJ)
 
 ```
 01000101 01110110 01101111 01101100 01110110 01100101 00100000 01101111 01110010 00100000 01110010 01100101 01110000 01100101 01100001 01110100 00101110 
 
 ```
+
 <img src="https://raw.githubusercontent.com/Jomonh/Jomonh/main/Assets/horizontal%20line%20.gif"><br>
 
 ## <div align="center"><img src = "https://github.com/Jomonh/Jomonh/blob/main/Assets/Coder.gif" width = 35px> Skills :
@@ -44,9 +45,9 @@
   <img src="https://skillicons.dev/icons?i=expressjs,mongodb,mysql,git,github,firebase"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Jomonh/Jomonh/main/Assets/horizontal%20line%20.gif"><br>
+## <div align="center">GitHub Profile Stats :
 
-## <div align="center">⚙ GitHub Profile Stats :
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jomonh" target="_blank" alt="Jomon" /> </p>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jomonh&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" /><br>
@@ -55,5 +56,4 @@
 </div>
 
 <br>
-                                    
-```Thanks for visiting...```
+                                <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&&&color=ffffff&center=true&vCenter=true&width=400&height=50&duration=5500&lines=Thank+you+for+visiting...;" />
