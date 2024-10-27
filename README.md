@@ -19,7 +19,7 @@
 -  Say hello at my <a href="mailto:jomon.workmail@gmail.com" target="_blank">**email!**</a>
 
 
-- Check out my <a href="https://drive.google.com/file/d/1XdP775UPCrulyrOkFoghJPRolNHWBsZU/view?usp=drivesdk" target="_blank">**resume**</a> for more details.
+- Check out my <a href="https://drive.google.com/drive/folders/1Xtc_jAm3jnVh-o5JRLVb_o7RFGIA5fVK?usp=drive_link" target="_blank">**resume**</a> for more details.
 
 
 - Connect me over <br>
