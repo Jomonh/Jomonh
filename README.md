@@ -1,10 +1,10 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonh&label=Profile%20views&color=707070&style=flat" alt="Jomon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Jomon&label=Profile%20views&color=707070&style=flat" alt="Jomon" /> </p>
 
 <h1 align="center">
-<img src="https://github.com/Jomonh/Jomonh/blob/main/Assets/Programmer.gif" height="155" width="200" align="middle"/>  <br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
+<img src="https://github.com/Mr-Jomon/Mr-Jomon/blob/main/Assets/Programmer.gif" height="155" width="200" align="middle"/>  <br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
 
-<h3 align="center">Aspiring Software Development Engineer at Zoho</h3>
+<h3 align="center">Aspiring Software Development Engineer at <a href="https://www.zoho.com/">Zoho</a></h3>
 
 
 -  Currently Learning   Java & DSA 
@@ -16,7 +16,7 @@
 -  Ask me about    : **```GitHub```**
 
 
--  Say hello at my <a href="mailto:jomon.workmail@gmail.com" target="_blank">**email!**</a>
+-  Say hello at my <a href="mailto:jomon.reachout@gmail.com" target="_blank">**email!**</a>
 
 
 - Check out my <a href="https://drive.google.com/drive/folders/1Xtc_jAm3jnVh-o5JRLVb_o7RFGIA5fVK?usp=drive_link" target="_blank">**resume**</a> for more details.
@@ -33,9 +33,9 @@
 
 ```
 
-<img src="https://raw.githubusercontent.com/Jomonh/Jomonh/main/Assets/horizontal%20line%20.gif"><br>
+<img src="https://raw.githubusercontent.com/Mr-Jomon/Mr-Jomon/main/Assets/horizontal%20line%20.gif"><br>
 
-## <div align="center"><img src = "https://github.com/Jomonh/Jomonh/blob/main/Assets/Coder.gif" width = 35px> Skills :
+## <div align="center"><img src = "https://github.com/Mr-Jomon/Mr-Jomon/blob/main/Assets/Coder.gif" width = 35px> Skills :
   </div>
 
 <br/>
@@ -47,12 +47,12 @@
 
 ## <div align="center">GitHub Profile Stats :
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jomonh" target="_blank" alt="Jomon" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Jomon" target="_blank" alt="Jomon Joy" /> </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jomonh&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jomonh&theme=react&hide_border=true" alt="streak graph" width="400"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomonh&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Jomon&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Jomon&theme=react&hide_border=true" alt="streak graph" width="400"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Jomon&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
 </div>
 
 <br>
