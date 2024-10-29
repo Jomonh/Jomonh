@@ -23,9 +23,9 @@
 
 
 - Connect me over <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%2320232a.svg?style=normal&logo=linkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/jomonh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/Jomonh/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2320232a.svg?style=normal&logo=geeksforgeeks&logoColor=%2300C853)](https://auth.geeksforgeeks.org/user/jomonh/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2320232a.svg?style=normal&logo=linkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/jomon-j)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/Jomon-J/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2320232a.svg?style=normal&logo=geeksforgeeks&logoColor=%2300C853)](https://auth.geeksforgeeks.org/user/jomonjoy/)
 [![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=normal&logo=discord&logoColor=%237289DA)](https://discord.gg/gjdGS6BJ)
 
 ```
