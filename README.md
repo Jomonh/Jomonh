@@ -1,7 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Jomon&label=Profile%20views&color=707070&style=flat" alt="Jomon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomon-J&label=Profile%20views&color=707070&style=flat" alt="Jomon" /> </p>
 
 <h1 align="center">
-<img src="https://github.com/Mr-Jomon/Mr-Jomon/blob/main/Assets/Programmer.gif" height="155" width="200" align="middle"/>  <br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
+<img src="https://github.com/Jomon-J/Jomon-J/blob/main/Assets/Programmer.gif" height="155" width="200" align="middle"/>  <br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
 
 <h3 align="center">Aspiring Software Development Engineer at <a href="https://www.zoho.com/">Zoho</a></h3>
@@ -33,9 +33,9 @@
 
 ```
 
-<img src="https://raw.githubusercontent.com/Mr-Jomon/Mr-Jomon/main/Assets/horizontal%20line%20.gif"><br>
+<img src="https://raw.githubusercontent.com/Jomon-J/Jomon-J/main/Assets/horizontal%20line%20.gif"><br>
 
-## <div align="center"><img src = "https://github.com/Mr-Jomon/Mr-Jomon/blob/main/Assets/Coder.gif" width = 35px> Skills :
+## <div align="center"><img src = "https://github.com/Jomon-J/Jomon-J/blob/main/Assets/Coder.gif" width = 35px> Skills :
   </div>
 
 <br/>
@@ -47,12 +47,12 @@
 
 ## <div align="center">GitHub Profile Stats :
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Jomon" target="_blank" alt="Jomon Joy" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jomon-J" target="_blank" alt="Jomon Joy" /> </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Jomon&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Jomon&theme=react&hide_border=true" alt="streak graph" width="400"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Jomon&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jomon-J&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jomon-J&theme=react&hide_border=true" alt="streak graph" width="400"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomon-J&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
 </div>
 
 <br>
