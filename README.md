@@ -28,6 +28,20 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2320232a.svg?style=normal&logo=geeksforgeeks&logoColor=%2300C853)](https://auth.geeksforgeeks.org/user/jomonjoy/)
 [![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=normal&logo=discord&logoColor=%237289DA)](https://discord.gg/gjdGS6BJ)
 
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://github.com/user-attachments/assets/74ecf3d1-4e82-4ef4-a79c-5d023d0fcc75"
+ width="100px" height="100px" />
+<img src="https://github.com/user-attachments/assets/c992de38-cbb6-449f-866c-d92fc71b2c43" width="100px" height="100px" />
+<img src="https://github.com/user-attachments/assets/be8b9220-1265-4a45-87ee-3184688cd530" width="100px" height="100px" />
+<img src="https://github.com/user-attachments/assets/0d9acb61-4e5d-428f-9e31-ef9dba31b9d8" width="100px" height="100px" />
+<img src="https://github.com/user-attachments/assets/5d152785-575a-43d1-b1dc-3b7ca97f029b" width="100px" height="100px" />
+<img src="https://github.com/user-attachments/assets/0fdbc388-9047-4599-acdd-2d701d10f54a"
+ width="100px" height="100px" />
+</div>
+</details>
+
 ```
 01000101 01110110 01101111 01101100 01110110 01100101 00100000 01101111 01110010 00100000 01110010 01100101 01110000 01100101 01100001 01110100 00101110 
 
